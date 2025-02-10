@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **SQL, Javascript and Python**
 
-- 💬 Ask me about **html, CSS and bootstrap**
+- 💬 Ask me about **Data Analytics and Web Developer**
 
 - 📫 How to reach me **rameshkr.maurya12@gmial.com**
 
-- ⚡ Fun fact **I am funny**
+- 📄 Know about my experiences [Experience in having excellent Security system, Data Entry, Transport Supervisor, Store Incharge and Management skills.](Experience in having excellent Security system, Data Entry, Transport Supervisor, Store Incharge and Management skills.)
+
+- ⚡ Fun fact **I am funny 😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj2121-art&show_icons=true&locale=en" alt="raj2121-art" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj2121-art&" alt="raj2121-art" /></p>
+
