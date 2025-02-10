@@ -1,3 +1,5 @@
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d0857b32-b402-4f4a-aa58-8d9d353f71ce">
+
 <h1 align="center">Hi 👋, I'm Ramesh Kumar</h1>
 <h3 align="center">A passionate Data Analytics/frontend developer from India</h3>
 
